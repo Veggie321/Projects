@@ -78,9 +78,7 @@ function pFunc(num) {
  document.getElementById("flowchart").style.display="none";
   
   
-  /* in Ex2, repeat the above two steps for "js" img here
-     for the image that is shown for "js", use dosa1.jpg 
-  */
+
 
 
  document.getElementById("js").setAttribute("src","Images/Problem"+[num]+"_Javascript.jpg");
@@ -91,9 +89,6 @@ function pFunc(num) {
  
  
  
-  /* the following two lines gets the checkboxes that their ID is check1
-     and check2, and unchecks them
-  */
   document.getElementById("check1").checked=false;
   document.getElementById("check2").checked=false;
   document.getElementById("check3").checked=false;
@@ -101,7 +96,7 @@ function pFunc(num) {
 }
 
 
-/* in Ex3, uncomment the following function and complete it*/
+
 
 
 function checkUncheck1(){
