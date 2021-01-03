@@ -9,7 +9,7 @@ let lastRenderTime= 0
 function start(currentTime){ 
 if(gameOver){
     if(confirm("You lose! Don't lose... duh. Press OK to try again")){
-        window.location ='https://www.veggie321.codes/Snake/Game_Display.html'
+        window.location.href ="https://www.veggie321.codes/Snake/Game_Display.html"
     }
     return
 }
