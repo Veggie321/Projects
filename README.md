@@ -1,3 +1,3 @@
 # Projects
-Check out my projects here!.
+Check out my projects here on my website all in one place.
 
